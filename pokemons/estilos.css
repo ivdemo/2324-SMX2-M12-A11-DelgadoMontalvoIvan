@@ -1,0 +1,48 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+}
+
+.volver{
+        text-align: center;
+        background-color: red;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 16em;
+}
+
+.planta{
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+
+.veneno{
+    background-color: rgb(187, 121, 250);
+    border-radius: 5px;
+}
+
+.fuego{
+    background-color: rgb(255, 67, 67);
+    border-radius: 5px;
+}
+
+.agua{
+    background-color: rgb(90, 171, 247);
+    border-radius: 5px;
+}
+
+.letra {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+div{
+    text-align: center;
+}

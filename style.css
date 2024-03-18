@@ -1,6 +1,36 @@
 body {
-    background-image: url(/img/mapa-fondo.jpeg);
+    background-image: url(img/mapafondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
   }
   
+  .h1{
+    text-align: center;
+  }
+
+  .pokemon{
+    text-align: left;
+    color: white;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+}
+
+  h1{
+    background-color: rgba(0, 0, 0, 0.774);
+        margin-left: auto;
+        margin-right: auto;
+        width: 16em;
+        text-align: center;
+        color: rgb(219, 219, 219);
+        font-size: 50px;
+        
+  }
 
 
+  .letra {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
